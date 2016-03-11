@@ -52,10 +52,10 @@ lang: en-US
     </tr>
     <tr>
       <td>CPU</td>
-      <td>900MHz Quad-Core ARM Cortex A53</td>
-	  <td>900MHz Quad-Core ARM Cortex A7</td>
+      <td>1.2GHz Quad-Core ARM Cortex-A53</td>
+	  <td>900MHz Quad-Core ARM Cortex-A7</td>
       <td></td>
-      <td>900MHz Quad-Core ARM Cortex A7</td>
+      <td>900MHz Quad-Core ARM Cortex-A7</td>
     </tr>
     <tr>
       <td>Memory</td>
